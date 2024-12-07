@@ -4,5 +4,5 @@ Bem-vindo ao repositório do site da JB Distribuidora! Somos uma loja especializ
 
 O projeto inclui uma interface intuitiva, integração com redes sociais, e recursos otimizados de busca para que nossos clientes tenham uma experiência ágil e satisfatória. Acesse nosso site e descubra como a JB Distribuidora pode ajudar você a manter seu veículo em ótimo estado!
 
-# Nosso objetivo
+## Nosso objetivo
 Foi desenvolvido para facilitar a busca e aquisição de peças de direção hidráulica e elétrica. Nosso objetivo é oferecer uma plataforma intuitiva, com informações claras e acesso rápido a produtos de qualidade, ajudando nossos clientes a encontrar exatamente o que precisam de forma prática e eficiente.
